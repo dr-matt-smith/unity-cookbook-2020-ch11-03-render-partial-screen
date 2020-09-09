@@ -1,1 +1,1 @@
-# unity-cookbook-2020-ch11-02-render-partial-screen
+# unity-cookbook-2020-ch11-03-render-partial-screen
